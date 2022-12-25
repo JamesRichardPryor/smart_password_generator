@@ -1,7 +1,6 @@
-# smart_password_generator
-A simple random secure password generator
+# Smart_Password_Generator
 
-# SmartPassword
+A simple random secure password generator
 
 ### By: James Pryor
 
